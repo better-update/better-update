@@ -1,0 +1,9 @@
+{
+  "extends": "@better-ota/typescript-config/react.json",
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"]
+    }
+  },
+  "include": ["src", "*.ts"]
+}

@@ -1,0 +1,6 @@
+{
+  "extends": ["../../packages/oxlint-config/base.json"],
+  "rules": {
+    "no-undef": "off"
+  }
+}

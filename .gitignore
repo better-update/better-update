@@ -1,0 +1,13 @@
+.wrangler/
+worker-configuration.d.ts
+node_modules/
+dist/
+.turbo/
+*.tsbuildinfo
+.tanstack
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
